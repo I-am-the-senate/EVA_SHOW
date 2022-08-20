@@ -1,8 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/I-am-the-senate/EVAturbine.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is just a demo page for evaturbines website. To edit this site press [editor on GitHub](https://github.com/I-am-the-senate/EVAturbine.github.io/edit/gh-pages/index.md)
+This is a md file and a index html file template can be used to replace this.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+To make changes, clone the rep and back up the original.
+
+
+
 
 ### Markdown
 
